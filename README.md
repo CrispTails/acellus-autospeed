@@ -18,4 +18,4 @@ Acellus Auto-Speed is an amazing userscript that makes automation easier. With i
 1. Open any Class on Acellus
 2. Get into any video
 3. The script will automatically set your speed to 1.5x
-4. 
+4. Done!
