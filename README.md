@@ -10,7 +10,7 @@ Acellus Auto-Speed is an amazing userscript that makes automation easier. With i
 ## Installation
 
 1. Install [Tampermonkey](https://tampermonkey.net/)
-2. Install the [Acellus Auto-Speed] (https://greasyfork.org/scripts/460224-acellus-autospeed/code/Acellus%20AutoSpeed.user.js) userscript
+2. Install the Acellus Auto-Speed userscript
 3. Enjoy the benefits of faster automation and videos!
 
 ## How to Use
